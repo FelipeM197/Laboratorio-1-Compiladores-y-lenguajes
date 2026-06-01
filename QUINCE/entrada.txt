@@ -1,0 +1,3 @@
+SELECT * FROM TablaUsuarios WHERE ID_Usuario = 45;
+ESTE texto TIENE un FORMATO irregular.
+correo@EJEMPLO.com

@@ -1,0 +1,5 @@
+1250
+compilador
+var123
+99
+x

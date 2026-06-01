@@ -1,0 +1,3 @@
+select * from tablausuarios where id_usuario = 45;
+este texto tiene un formato irregular.
+correo@ejemplo.com

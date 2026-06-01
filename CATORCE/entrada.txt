@@ -1,0 +1,5 @@
+a + b = c
+x >= 10
+y != 5
+contador = contador + 1
+valor * 2 <= limite / 3
