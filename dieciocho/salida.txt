@@ -1,0 +1,5 @@
+Binario: 1010 -> Decimal: 10
+Binario: 1111 -> Decimal: 15
+Binario: 0000 -> Decimal: 0
+Binario: 1000000 -> Decimal: 64
+Binario: 11 -> Decimal: 3

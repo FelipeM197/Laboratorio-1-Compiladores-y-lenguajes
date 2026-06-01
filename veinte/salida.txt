@@ -1,0 +1,15 @@
+Elemento: IDENTIFICADOR (variable1)
+--- COMA ---
+Elemento: NUMERO ENTERO (2026)
+--- COMA ---
+Elemento: IDENTIFICADOR (suma)
+--- COMA ---
+Elemento: NUMERO ENTERO (45)
+--- COMA ---
+ERROR: Tipo de token no reconocido ('@')
+--- COMA ---
+Elemento: IDENTIFICADOR (identificador2)
+--- COMA ---
+ERROR: Tipo de token no reconocido ('$')
+--- COMA ---
+Elemento: NUMERO ENTERO (99)

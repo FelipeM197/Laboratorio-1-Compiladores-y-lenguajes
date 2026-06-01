@@ -1,0 +1,6 @@
+hola
+12345
+variable1
+contador2026
+999
+COMPILADORES

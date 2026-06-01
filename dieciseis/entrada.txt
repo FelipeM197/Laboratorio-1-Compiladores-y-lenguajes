@@ -1,0 +1,4 @@
+hola 123
+el numero de telefono es 0991234567
+año 2026
+letras y numeros mezclados 888 y 000
