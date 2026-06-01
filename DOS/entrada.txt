@@ -1,0 +1,6 @@
+hola
+inicio
+saltar
+correr
+pare
+fin

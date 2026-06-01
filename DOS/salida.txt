@@ -1,0 +1,8 @@
+hola
+Comando inicio ejecutado
+
+saltar
+correr
+Comando pare recibido
+
+fin
