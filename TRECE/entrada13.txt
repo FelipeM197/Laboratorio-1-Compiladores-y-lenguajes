@@ -1,0 +1,15 @@
+int main()
+{
+    int contador = 10;
+    while (contador)
+    {
+        if (contador)
+        {
+            contador = 0;
+        }
+        else
+        {
+            int auxiliar = 995;
+        }
+    }
+}

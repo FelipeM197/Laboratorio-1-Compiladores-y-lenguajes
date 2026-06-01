@@ -1,0 +1,35 @@
+Ingrese un codigo de pruebaToken: PALABRA_RESERVADA | Lexema: int
+Token: IDENTIFICADOR | LEXEMA: main
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: (
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: )
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: {
+Token: PALABRA_RESERVADA | Lexema: int
+Token: IDENTIFICADOR | LEXEMA: contador
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: =
+Token: NUMERO_ENTERO     | Lexema: 10
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: ;
+Token: PALABRA_RESERVADA | Lexema: while
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: (
+Token: IDENTIFICADOR | LEXEMA: contador
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: )
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: {
+Token: PALABRA_RESERVADA | Lexema: if
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: (
+Token: IDENTIFICADOR | LEXEMA: contador
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: )
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: {
+Token: IDENTIFICADOR | LEXEMA: contador
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: =
+Token: NUMERO_ENTERO     | Lexema: 0
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: ;
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: }
+Token: PALABRA_RESERVADA | Lexema: else
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: {
+Token: PALABRA_RESERVADA | Lexema: int
+Token: IDENTIFICADOR | LEXEMA: auxiliar
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: =
+Token: NUMERO_ENTERO     | Lexema: 995
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: ;
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: }
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: }
+Token: ESTE NO ES UN CARACTER VALIDO | Lexema: }

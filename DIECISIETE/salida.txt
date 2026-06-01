@@ -1,0 +1,14 @@
+Ingrese texto con correos electronicos para probar:
+Token: OTRO_CARACTER       | Lexema: h
+Token: OTRO_CARACTER       | Lexema: o
+Token: OTRO_CARACTER       | Lexema: l
+Token: OTRO_CARACTER       | Lexema: a
+Token: CORREO_ELECTRONICO | Lexema: juan@dominio.com
+Token: CORREO_ELECTRONICO | Lexema: ahca_12@uade.edu.ar
+Token: OTRO_CARACTER       | Lexema: e
+Token: OTRO_CARACTER       | Lexema: x
+Token: OTRO_CARACTER       | Lexema: t
+Token: OTRO_CARACTER       | Lexema: e
+Token: OTRO_CARACTER       | Lexema: r
+Token: OTRO_CARACTER       | Lexema: n
+Token: OTRO_CARACTER       | Lexema: o

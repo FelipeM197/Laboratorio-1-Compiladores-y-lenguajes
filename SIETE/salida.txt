@@ -1,0 +1,82 @@
+1 PALABRA "La"
+ 2 PALABRA "tortuga"
+ 3 PALABRA "y"
+ 4 PALABRA "Aquiles"
+
+
+5 PALABRA "Por"
+ 6 PALABRA "fin"
+, 7 PALABRA "seg"
+ú8 PALABRA "n"
+ 9 PALABRA "el"
+ 10 PALABRA "cable"
+, 11 PALABRA "la"
+ 12 PALABRA "semana"
+ 13 PALABRA "pasada"
+ 14 PALABRA "la"
+ 15 PALABRA "tortuga"
+ 16 PALABRA "lleg"
+ó 17 PALABRA "a"
+ 18 PALABRA "la"
+ 19 PALABRA "meta"
+.
+
+20 PALABRA "En"
+ 21 PALABRA "rueda"
+ 22 PALABRA "de"
+ 23 PALABRA "prensa"
+ 24 PALABRA "declar"
+ó 25 PALABRA "modestamente"
+ 26 PALABRA "que"
+ 27 PALABRA "siempre"
+ 28 PALABRA "temi"
+ó 29 PALABRA "perder"
+, 30 PALABRA "pues"
+ 31 PALABRA "su"
+ 32 PALABRA "contrincante"
+ 33 PALABRA "le"
+ 34 PALABRA "pis"
+ó 35 PALABRA "todo"
+ 36 PALABRA "el"
+ 37 PALABRA "tiempo"
+ 38 PALABRA "los"
+ 39 PALABRA "talones"
+.
+
+40 PALABRA "En"
+ 41 PALABRA "efecto"
+, 42 PALABRA "una"
+ 43 PALABRA "diezmiltrillon"
+é44 PALABRA "sima"
+ 45 PALABRA "de"
+ 46 PALABRA "segundo"
+ 47 PALABRA "despu"
+é48 PALABRA "s"
+, 49 PALABRA "como"
+ 50 PALABRA "una"
+ 51 PALABRA "flecha"
+ 52 PALABRA "y"
+ 53 PALABRA "maldiciendo"
+ 54 PALABRA "a"
+ 55 PALABRA "Zen"
+ó56 PALABRA "n"
+ 57 PALABRA "de"
+ 58 PALABRA "Elea"
+, 59 PALABRA "lleg"
+ó 60 PALABRA "Aquiles"
+.
+
+
+61 NUMERO "5637363"
+62 PALABRA "hdsbdhjs"
+
+
+
+63 NUMERO "28637263"
+64 PALABRA "sdfjshdfjs"
+
+
+65 PALABRA "unu"
+ 66 PALABRA "papu"
+ 67 NUMERO "5555"
+

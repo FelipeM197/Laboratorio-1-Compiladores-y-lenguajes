@@ -1,0 +1,6 @@
+Inserta un texto cualquiera
+ Resultados del scaneo
+Letras Mayusculas: 7
+Letras Minúsculas: 545
+Digitos:          5
+Espacios en blanco: 142
